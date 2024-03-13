@@ -2,7 +2,7 @@ version: '3.9'
 services:
   jupyter_fastapi:
     container_name: ${CONTAINER_PREFIX}_jupyter_fastapi
-    image: hkys_predict # Specifies the name for the built image.
+    image: hancom_keyword # Specifies the name for the built image.
     build:
       context: .
       dockerfile: Dockerfile
