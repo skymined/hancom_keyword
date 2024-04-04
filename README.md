@@ -40,6 +40,19 @@
 ## 4. 분석
 
 
+<img src="./images/stock_line.png" alt="자체제작 그래프" width="400"/> <img src="./images/stock_from_naver.png" alt="네이버 그래프" width="400"/>
+```
+그래프가 잘 그려졌다.
+```
+<img src="./images/checkpoint_count.png" alt="체크포인트 카운트" width="400"/> <img src="./images/stock_changed.png" alt="체크포인트 비율" width="400"/>
+```
+여기는 나중에 수정 체크포인트랑 전일비 음양값은 상관이 없지
+```
+
+![체크포인트 하이라이트 그래프](./images/checkpoint_graph.png)
+```
+붉은 점이 눈여겨볼만한 곳 - 가격과 트레이딩이 모두 외부요인이 작용했다고 여겨지는 날짜
+```
 
 ## 기타
 
